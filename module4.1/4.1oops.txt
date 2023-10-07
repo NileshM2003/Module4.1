@@ -1,0 +1,37 @@
+-------Module-4.1(C++)-------
+
+Q.2  What is OOP? List OOP concepts?
+
+Ans:- oops stand for object oriented programming system.
+          its communicated a realistic world.
+
+list of oop concept:-
+1)Inheritance
+2)incapsulation
+3)object
+4)class
+5)abstraction
+6)polymorphism
+
+Q.3 What is the difference between POP & OOP?
+
+Ans:- object-oriented programming(OOP)
+1)program is divided into objects.
+2)Bottom-up approach.
+3)Inheritance property is used.
+4)It uses access specifier.
+5)Encapsulation is used to hide the data.
+6)Concept of virtual function.
+7)object function are linked through message passing.
+
+procedural oriented programming(POP)
+1)Top-down approach
+2)Inheritance is not allowed.
+3)It doesn't use access specifier.
+4)No data hiding.
+5)No virtual function.
+6)parts of programming are linked through parameter passing.
+7)Expanding new data and function is not easy.
+8)no code reusablity
+9)Pascal,forten,basic.
+
